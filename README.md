@@ -1,7 +1,10 @@
 # Projeto de Newsletter Odontológica da OdontoPrev
 https://whimsical.com/odontoletter-F1HE1xFVV6mmu3qtj6noCv
 
-https://whimsical.com/odontoletter-F1HE1xFVV6mmu3qtj6noCv
+
+
+![image](https://github.com/user-attachments/assets/7dd6bbe5-3912-4ee6-8269-8a5b52718771)
+
 
 
 ## Visão Geral do Projeto
