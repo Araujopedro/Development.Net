@@ -156,9 +156,9 @@ Este projeto abrange o desenvolvimento de uma aplicação web utilizando .NET MV
 
 # Integrantes
 
-[Liste aqui os nomes dos integrantes do projeto]
+
 
 ### Turma: 2TDSPS
-Bia Silva 
+Bia Silva 552600
 Pedro henrique S araujo 553801
 
